@@ -1,1 +1,0 @@
-This is a simple scm revision test file.
