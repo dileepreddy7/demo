@@ -1,3 +1,1 @@
-
-This is a simple scm revision test file
-
+This is a simple scm revision test file.
