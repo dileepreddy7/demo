@@ -1,3 +1,4 @@
+/*
 
-
-//This sql file for testing purpose */
+This sql file for testing purpose 
+*/
