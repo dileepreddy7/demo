@@ -559,7 +559,7 @@
             <picklist>AccountSource</picklist>
             <values>
                 <fullName>Other</fullName>
-                <default>true</default>
+                <default>false</default>
             </values>
             <values>
                 <fullName>Partner Referral</fullName>
@@ -575,7 +575,7 @@
             </values>
             <values>
                 <fullName>Web</fullName>
-                <default>false</default>
+                <default>true</default>
             </values>
         </picklistValues>
         <picklistValues>
@@ -597,7 +597,7 @@
             </values>
             <values>
                 <fullName>Low</fullName>
-                <default>false</default>
+                <default>true</default>
             </values>
             <values>
                 <fullName>Medium</fullName>
