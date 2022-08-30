@@ -3,4 +3,4 @@
 This sql file for testing purpose 
 */
 
--- END --
+-- END OF THE FILE --
